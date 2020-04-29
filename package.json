@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "html2canvas": "^1.0.0-alpha.12",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lodash": "latest",
     "mint-ui": "^2.2.13",
     "jspdf": "^1.4.1",
