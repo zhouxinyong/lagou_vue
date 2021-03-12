@@ -16,7 +16,7 @@
     "jquery": "^3.3.1",
     "lodash": "latest",
     "mint-ui": "^2.2.13",
-    "jspdf": "^1.4.1",
+    "jspdf": "^2.3.1",
     "mockjs": "^1.0.1-beta3",
     "node-sass": "^4.9.2",
     "sass-loader": "^7.0.3",
